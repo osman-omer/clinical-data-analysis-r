@@ -17,3 +17,7 @@ such as age, BMI, glucose levels, and disease outcome.
 ## Status
 This project is currently in progress and is part of my learning journey
 in R and clinical research.
+
+## Preliminary Observations
+Mean glucose levels were higher among participants with diabetes
+compared to those without diabetes.
