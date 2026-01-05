@@ -21,3 +21,4 @@ in R and clinical research.
 ## Preliminary Observations
 Mean glucose levels were higher among participants with diabetes
 compared to those without diabetes.
+BMI levels were also higher among participants with diabetes.
