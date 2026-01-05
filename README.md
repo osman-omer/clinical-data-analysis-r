@@ -1,25 +1,26 @@
 # Clinical Data Exploration Using R
 
 ## Objective
-This project aims to practice basic data analysis and descriptive statistics
+This project aims to practice basic data analysis and exploratory data analysis (EDA)
 using R on a publicly available clinical dataset.
 
 ## Dataset
-The dataset will be obtained from Kaggle and includes basic clinical variables
-such as age, BMI, glucose levels, and disease outcome.
+The dataset was obtained from Kaggle (Pima Indians Diabetes Dataset) and includes
+basic clinical variables such as glucose level, BMI, age, and diabetes outcome.
 
 ## Methods
-- Data inspection
-- Data cleaning
+- Data inspection and structure exploration
 - Descriptive statistics
-- Basic data visualization
-
-## Status
-This project is currently in progress and is part of my learning journey
-in R and clinical research.
+- Exploratory data analysis using boxplots
+- Group-wise comparison using mean values
 
 ## Preliminary Observations
-Mean glucose levels were higher among participants with diabetes
-compared to those without diabetes.
+Mean glucose levels were higher among participants with diabetes compared to those
+without diabetes. BMI levels were also higher among participants with diabetes.
 
-BMI levels were also higher among participants with diabetes.
+## Tools
+- R
+- tidyverse
+
+## Status
+Completed as a learning project.
